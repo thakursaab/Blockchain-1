@@ -1,4 +1,5 @@
 import hashlib
+import time
 class block:
   def __init__(self,Sno,pno,time,phash,D):
     self.Sno = Sno
